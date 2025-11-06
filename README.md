@@ -93,7 +93,7 @@
 ## 🚀 快速开始
 
 1. **下载应用程序**
-   - 从 [Releases](https://github.com/your-username/classic-cloud-desktop/releases) 页面下载对应平台版本
+   - 从 [Releases](https://github.com/xuanxuan205/Classic-cloud-network-disk/releases/tag/V1.0.0) 页面下载对应平台版本
 
 2. **运行应用程序**
    - Windows: 双击 `经典云网盘.exe`
@@ -213,5 +213,6 @@
 Made with ❤️ by Classic Cloud Team
 
 </div>
+
 
 
