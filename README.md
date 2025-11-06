@@ -274,8 +274,8 @@ chmod +x 经典云网盘
 ## 🌐 相关链接
 
 - [官方网站](https://gta5fuzhup.cn)
-- [问题反馈](https://github.com/your-username/classic-cloud-desktop/issues)
-- [功能建议](https://github.com/your-username/classic-cloud-desktop/issues)
+- [问题反馈](https://github.com/xuanxuan205/Classic-cloud-network-disk/issues)
+- [功能建议](https://github.com/xuanxuan205/Classic-cloud-network-disk/issues)
 
 ---
 
@@ -286,3 +286,4 @@ chmod +x 经典云网盘
 Made with ❤️ by Classic Cloud Team
 
 </div>
+
